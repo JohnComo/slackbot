@@ -1,2 +1,2 @@
 # slackbot
-This project was guided by PyCharm by JetBrains YouTube livestream. 
+This project was guided by PyCharm by JetBrains YouTube livestream and TWT.
